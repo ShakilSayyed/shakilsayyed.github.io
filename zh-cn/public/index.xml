@@ -7,7 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>s.ghafoor@outlook.com (AbdulSayyed)</managingEditor>
-    <webMaster>s.ghafoor@outlook.com (AbdulSayyed)</webMaster>
-    <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright><atom:link href="/zh-cn/public/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>s.ghafoor@outlook.com (AbdulSayyed)</webMaster><atom:link href="/zh-cn/public/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
