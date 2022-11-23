@@ -11,6 +11,16 @@
     <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright>
     <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/about/</guid>
+      <description>Note: The site is under construction
+It is being made to keep all the information gained during the plumbing course. It will be regularly updated. Thanks for visiting. To all class fellows: Please note down any mistake and let me know in a class or email me gsayyed@hotmail.com</description>
+    </item>
+    
+    <item>
       <title>Central Heating Basic Quiz</title>
       <link>/posts/central-heating-basic-quiz/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
@@ -18,16 +28,6 @@
       <guid>/posts/central-heating-basic-quiz/</guid>
       <description>Central Heating Knowledge &amp; QuizLevel BasicQ-1 Bedroom RST should be set to what temperature ?20 Degree Centigrade Note: Bathroom temperature should be set at 23 Degree Centigrade.
 Q-2 What amp fuse cartridge is used in a boiler and fused spar ?All boilers requires 1 amp The fused spar has 3 amp cartridge While MCB ( mini circuit board ) is of 6 amp Q-3 What device reduces possible noise and boiler lock out ?</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
-      <guid>/about/</guid>
-      <description> Note: The site is under construction
-It is being made to keep all the information gained during the plumbing course. It will be regularly updated. Thanks for visiting. </description>
     </item>
     
     <item>
