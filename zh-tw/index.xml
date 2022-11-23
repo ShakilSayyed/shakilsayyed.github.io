@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Bootstrap</title>
+    <link>/zh-tw/</link>
+    <description>Recent content on Hugo Bootstrap</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>s.ghafoor@outlook.com (AbdulSayyed)</managingEditor>
+    <webMaster>s.ghafoor@outlook.com (AbdulSayyed)</webMaster>
+    <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright><atom:link href="/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Offline</title>
+      <link>/zh-tw/offline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/zh-tw/offline/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

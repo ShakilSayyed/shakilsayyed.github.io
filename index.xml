@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>s.ghafoor@outlook.com (AbdulSayyed)</managingEditor>
+    <webMaster>s.ghafoor@outlook.com (AbdulSayyed)</webMaster>
+    <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Central Heating Basic Quiz</title>
+      <link>/posts/central-heating-basic-quiz/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/posts/central-heating-basic-quiz/</guid>
+      <description>Central Heating Knowledge &amp; QuizLevel BasicQ-1 Bedroom RST should be set to what temperature ?20 Degree Centigrade Note: Bathroom temperature should be set at 23 Degree Centigrade.
+Q-2 What amp fuse cartridge is used in a boiler and fused spar ?All boilers requires 1 amp The fused spar has 3 amp cartridge While MCB ( mini circuit board ) is of 6 amp Q-3 What device reduces possible noise and boiler lock out ?</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/about/</guid>
+      <description> Note: The site is under construction
+It is being made to keep all the information gained during the plumbing course. It will be regularly updated. Thanks for visiting. </description>
+    </item>
+    
+    <item>
+      <title>Offline</title>
+      <link>/offline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/offline/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
