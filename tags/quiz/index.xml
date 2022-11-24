@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>quiz on My New Hugo Site</title>
     <link>/tags/quiz/</link>
@@ -8,6 +8,8 @@
     <language>en-us</language>
     <managingEditor>s.ghafoor@outlook.com (AbdulSayyed)</managingEditor>
     <webMaster>s.ghafoor@outlook.com (AbdulSayyed)</webMaster>
+    <copyright>
+</copyright>
     <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/quiz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Central Heating Basic Quiz</title>
@@ -15,9 +17,9 @@
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
       <guid>/posts/central-heating-basic-quiz/</guid>
-      <description>Central Heating Knowledge &amp; QuizLevel BasicQ-1 Bedroom RST should be set to what temperature ?20 Degree Centigrade Note: Bathroom temperature should be set at 23 Degree Centigrade.
-Q-2 What amp fuse cartridge is used in a boiler and fused spar ?All boilers requires 1 amp The fused spar has 3 amp cartridge While MCB ( mini circuit board ) is of 6 amp Q-3 What device reduces possible noise and boiler lock out ?</description>
+      <description><![CDATA[Central Heating Knowledge & Quiz§Level Basic§Q-1 Bedroom RST should be set to what temperature ?§20 Degree Centigrade Bathroom temperature should be set at 23 Degree Centigrade. Q-2 What amp fuse cartridge is used in fused spar linked to a boiler ?§The fused spar has 3 amp cartridge All boilers requires 1 amp. While MCB ( mini circuit board ) is of 6 ampQ-3 What device reduces possible noise and boiler lock out ?]]></description>
     </item>
     
   </channel>
 </rss>
+

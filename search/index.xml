@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Search on My New Hugo Site</title>
     <link>/search/</link>
@@ -7,6 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>s.ghafoor@outlook.com (AbdulSayyed)</managingEditor>
-    <webMaster>s.ghafoor@outlook.com (AbdulSayyed)</webMaster><atom:link href="/search/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>s.ghafoor@outlook.com (AbdulSayyed)</webMaster>
+    <copyright>
+</copyright><atom:link href="/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
+
