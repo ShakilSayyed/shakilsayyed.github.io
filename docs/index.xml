@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docs on My New Hugo Site</title>
+    <link>/docs/</link>
+    <description>Recent content in Docs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>s.ghafoor@outlook.com (AbdulSayyed)</managingEditor>
+    <webMaster>s.ghafoor@outlook.com (AbdulSayyed)</webMaster>
+    <copyright>
+</copyright>
+    <lastBuildDate>Sun, 04 Dec 2022 10:43:39 +0800</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Common Plumbing Process</title>
+      <link>/docs/common-plumber-processing-basic-quizz/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/common-plumber-processing-basic-quizz/</guid>
+      <description><![CDATA[Common Plumbing Processing basic question and answers§Level Basic Q-1 What plastic pipes are used in for sanitation, drainage and rain water ?§Mainly PVC **Polyvinyl chloride**and ABS **Acrylonitrile butadiene styrene** are used for the above purposes. PVC comes in different types. CPVC: Chlorinated Polyvinyl chloride: They are produced by chlorination of PVC resin to make it more flexible than mere PVC, they can be used for both cold and hot water due to tolerating heat up to 180 degree Fahrenheit.]]></description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/docs/00_introduction/</link>
+      <pubDate>Mon, 13 Jun 2022 16:32:09 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/00_introduction/</guid>
+      <description><![CDATA[<p>Hugo Bootstrap Theme(HBS) is a fast, responsive, multipurpose and feature-rich Hugo theme. It is used for blog and document sites typically.</p>]]></description>
+    </item>
+    
+  </channel>
+</rss>
+

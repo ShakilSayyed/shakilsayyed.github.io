@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docs on My New Hugo Site</title>
+    <link>/series/docs/</link>
+    <description>Recent content in Docs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>s.ghafoor@outlook.com (AbdulSayyed)</managingEditor>
+    <webMaster>s.ghafoor@outlook.com (AbdulSayyed)</webMaster>
+    <copyright>
+</copyright>
+    <lastBuildDate>Sun, 04 Dec 2022 10:43:39 +0800</lastBuildDate><atom:link href="/series/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Central Heating Systems</title>
+      <link>/docs/04_central_heating_systems/</link>
+      <pubDate>Sun, 04 Dec 2022 10:43:39 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/04_central_heating_systems/</guid>
+      <description><![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Cold Water Systems</title>
+      <link>/docs/02_cold_water_systems/</link>
+      <pubDate>Sun, 04 Dec 2022 10:43:39 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/02_cold_water_systems/</guid>
+      <description><![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Common Plumbing Process</title>
+      <link>/docs/06_common_processes/</link>
+      <pubDate>Sun, 04 Dec 2022 10:43:39 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/06_common_processes/</guid>
+      <description><![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Domestic Fuel Systems</title>
+      <link>/docs/11_domestic_fuel_systems/</link>
+      <pubDate>Sun, 04 Dec 2022 10:43:39 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/11_domestic_fuel_systems/</guid>
+      <description><![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Electrical Principles</title>
+      <link>/docs/07_electrical_principles/</link>
+      <pubDate>Sun, 04 Dec 2022 10:43:39 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/07_electrical_principles/</guid>
+      <description><![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Environmental Protection</title>
+      <link>/docs/10_environmental_protection/</link>
+      <pubDate>Sun, 04 Dec 2022 10:43:39 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/10_environmental_protection/</guid>
+      <description><![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Health and Safety</title>
+      <link>/docs/01_health_and_safety/</link>
+      <pubDate>Sun, 04 Dec 2022 10:43:39 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/01_health_and_safety/</guid>
+      <description><![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Hot Water Systems</title>
+      <link>/docs/03_hot_water_systems/</link>
+      <pubDate>Sun, 04 Dec 2022 10:43:39 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/03_hot_water_systems/</guid>
+      <description><![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Planning and Supervision</title>
+      <link>/docs/12_planning_and_supervision/</link>
+      <pubDate>Sun, 04 Dec 2022 10:43:39 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/12_planning_and_supervision/</guid>
+      <description><![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Rain Water Systems</title>
+      <link>/docs/08_rain_water_systems/</link>
+      <pubDate>Sun, 04 Dec 2022 10:43:39 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/08_rain_water_systems/</guid>
+      <description><![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Sanitation Systems</title>
+      <link>/docs/09_sanitation_systems/</link>
+      <pubDate>Sun, 04 Dec 2022 10:43:39 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/09_sanitation_systems/</guid>
+      <description><![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Scientific Principles</title>
+      <link>/docs/05_scientific_principles/</link>
+      <pubDate>Sun, 04 Dec 2022 10:43:39 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/05_scientific_principles/</guid>
+      <description><![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/docs/00_introduction/</link>
+      <pubDate>Mon, 13 Jun 2022 16:32:09 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/00_introduction/</guid>
+      <description><![CDATA[<p>Hugo Bootstrap Theme(HBS) is a fast, responsive, multipurpose and feature-rich Hugo theme. It is used for blog and document sites typically.</p>]]></description>
+    </item>
+    
+  </channel>
+</rss>
+

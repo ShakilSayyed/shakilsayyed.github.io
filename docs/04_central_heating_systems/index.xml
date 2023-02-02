@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Central Heating Systems on My New Hugo Site</title>
+    <link>/docs/04_central_heating_systems/</link>
+    <description>Recent content in Central Heating Systems on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>s.ghafoor@outlook.com (AbdulSayyed)</managingEditor>
+    <webMaster>s.ghafoor@outlook.com (AbdulSayyed)</webMaster>
+    <copyright>
+</copyright>
+    <lastBuildDate>Sun, 04 Dec 2022 10:43:39 +0800</lastBuildDate><atom:link href="/docs/04_central_heating_systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Q &amp; A</title>
+      <link>/docs/04_central_heating_systems/level_basic/</link>
+      <pubDate>Sun, 04 Dec 2022 10:43:39 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/04_central_heating_systems/level_basic/</guid>
+      <description><![CDATA[Central Heating question and answer§Level Basic Q-1 Bedroom RST should be set to what temperature ?§20 Degree Centigrade Bathroom temperature should be set at 23 Degree Centigrade. Q-2 What amp fuse cartridge is used in fused spar linked to a boiler ?§The fused spar has 3 amp cartridge All boilers requires 1 amp. While MCB ( mini circuit board ) is of 6 ampQ-3 What device reduces possible noise and boiler lock out ?]]></description>
+    </item>
+    
+  </channel>
+</rss>
+

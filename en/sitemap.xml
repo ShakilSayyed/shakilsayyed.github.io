@@ -2,37 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+    <loc>/docs/04_central_heating_systems/level_basic/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
+    <loc>/docs/04_central_heating_systems/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
   </url><url>
-    <loc>/posts/central-heating-basic-quiz/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+    <loc>/docs/02_cold_water_systems/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
+  </url><url>
+    <loc>/docs/06_common_processes/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
+  </url><url>
+    <loc>/series/docs/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
+  </url><url>
+    <loc>/docs/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
+  </url><url>
+    <loc>/docs/11_domestic_fuel_systems/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
+  </url><url>
+    <loc>/docs/07_electrical_principles/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
+  </url><url>
+    <loc>/docs/10_environmental_protection/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
+  </url><url>
+    <loc>/docs/01_health_and_safety/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
+  </url><url>
+    <loc>/docs/03_hot_water_systems/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -54,17 +58,81 @@
                 href="/"
                 />
   </url><url>
-    <loc>/categories/plumbing/</loc>
+    <loc>/docs/12_planning_and_supervision/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
+  </url><url>
+    <loc>/docs/08_rain_water_systems/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
+  </url><url>
+    <loc>/docs/09_sanitation_systems/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
+  </url><url>
+    <loc>/docs/05_scientific_principles/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="/zh-tw/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="/zh-cn/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/series/"
+                />
+  </url><url>
+    <loc>/docs/04_central_heating_systems/types_of_system/</loc>
+    <lastmod>2022-12-04T10:43:39+08:00</lastmod>
+  </url><url>
+    <loc>/about/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+  </url><url>
+    <loc>/docs/common-plumber-processing-basic-quizz/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/plumbing/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/quiz/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -86,8 +154,14 @@
                 href="/tags/"
                 />
   </url><url>
-    <loc>/posts/common-plumber-processing-basic-quizz/</loc>
-    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+    <loc>/tags/features/</loc>
+    <lastmod>2022-06-13T16:32:09+08:00</lastmod>
+  </url><url>
+    <loc>/categories/introduction/</loc>
+    <lastmod>2022-06-13T16:32:09+08:00</lastmod>
+  </url><url>
+    <loc>/docs/00_introduction/</loc>
+    <lastmod>2022-06-13T16:32:09+08:00</lastmod>
   </url><url>
     <loc>/archives/</loc>
     <xhtml:link
@@ -192,28 +266,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/search/"
-                />
-  </url><url>
-    <loc>/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="/zh-tw/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/series/"
                 />
   </url><url>
     <loc>/true/</loc>
