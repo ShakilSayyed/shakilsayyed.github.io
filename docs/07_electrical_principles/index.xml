@@ -10,7 +10,16 @@
     <webMaster>s.ghafoor@outlook.com (AbdulSayyed)</webMaster>
     <copyright>
 </copyright>
-    <lastBuildDate>Sun, 04 Dec 2022 10:43:39 +0800</lastBuildDate><atom:link href="/docs/07_electrical_principles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Apr 2023 10:43:39 +0800</lastBuildDate><atom:link href="/docs/07_electrical_principles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Q &amp; A</title>
+      <link>/docs/07_electrical_principles/level_basic/</link>
+      <pubDate>Tue, 04 Apr 2023 10:43:39 +0800</pubDate>
+      <author>s.ghafoor@outlook.com (AbdulSayyed)</author>
+      <guid>/docs/07_electrical_principles/level_basic/</guid>
+      <description><![CDATA[Electrical Principles§Level Basic Q-1 What is the current relevant UK standards for the electrical work ?§BS 7671:2018 It covers requirements for design, erection and verification of electrical installations to provide safety and proper functioning for the intended use.Q-2 Some standard also use EN after BS what does it mean ?§EN indicates European number, a number shows that it meets not only British standard but also European standards -Q-3 Why Building Regulations Documents are important ?]]></description>
+    </item>
+    
   </channel>
 </rss>
 
